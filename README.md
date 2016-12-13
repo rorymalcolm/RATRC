@@ -1,4 +1,4 @@
-# RATRC
+# R(esident)A(dvisor)T(icket)R(esale)C(hecker)
 
 ##Resident Advisor Ticket Resale Checker
 
